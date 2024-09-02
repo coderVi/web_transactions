@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_transactions", "web_transactions.csproj", "{61D965AF-DA11-4720-9DDF-FED64F9ABF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D965AF-DA11-4720-9DDF-FED64F9ABF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D965AF-DA11-4720-9DDF-FED64F9ABF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D965AF-DA11-4720-9DDF-FED64F9ABF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D965AF-DA11-4720-9DDF-FED64F9ABF66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF8B9D4-EF78-4AAB-9C22-C93976DAE68B}
+	EndGlobalSection
+EndGlobal
